@@ -93,7 +93,7 @@ div.Connect
 
 h3.Connect
 	{
-	margin-left : 50px; 
+	margin-left : 25px; 
 	}
 	
 img.Search
@@ -109,7 +109,7 @@ div.Search
 	justify-content : flex-end;
 	align-items : center;
 	margin-right: 50px;
-	margin-left : 50px;
+	margin-left : 25px;
 	}
 	
 img.attention
